@@ -8,6 +8,7 @@ export default homePage = {
     search(searchString = 'Sony Playstation Classic Console') {
         I.fillField(this.searchTextbox, searchString);
         I.click(this.searchButton);
+        I.wait(3);
     },
   };
   
