@@ -1,0 +1,31 @@
+{
+  "name": "harvey-ui-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search_tests.js",
+  "scripts": {
+    "start": "codeceptjs run-multiple parallel",
+    "lint": "eslint . --fix"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
+  "author": "thanh nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "allure-commandline": "^2.7.0",
+    "chai": "^4.1.2",
+    "codeceptjs": "1.4.1",
+    "import-export": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-plugin-codeceptjs": "^0.4.0",
+    "husky": "^0.14.3",
+    "puppeteer": "^1.11.0",
+    "selenium-standalone": "^6.15.4",
+    "webdriverio": "^4.13.2"
+  }
+}
