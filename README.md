@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/PeterNgTr/amazon-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/amazon-ui-tests)
+[![Build Status](https://travis-ci.org/PeterNgTr/harvey-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/harvey-ui-tests)
 
 # Introduction
 
