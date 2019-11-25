@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/PeterNgTr/harvey-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/harvey-ui-tests)
+[![Build Status](https://travis-ci.org/PeterNgTr/harvey-ui-tests.svg?branch=master)](https://travis-ci.org/PeterNgTr/harvey-ui-tests) [![Greenkeeper badge](https://badges.greenkeeper.io/PeterNgTr/harvey-ui-tests.svg)](https://greenkeeper.io/)
 
 # Introduction
 
