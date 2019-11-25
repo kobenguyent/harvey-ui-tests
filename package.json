@@ -17,15 +17,15 @@
   "dependencies": {
     "allure-commandline": "^2.7.0",
     "chai": "^4.1.2",
-    "codeceptjs": "1.4.6",
+    "codeceptjs": "2.3.6",
     "import-export": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^5.5.0",
-    "eslint-plugin-codeceptjs": "^0.4.0",
-    "husky": "^0.14.3",
-    "puppeteer": "^1.11.0",
+    "eslint": "^6.7.1",
+    "eslint-plugin-codeceptjs": "^1.2.0",
+    "husky": "^3.1.0",
+    "puppeteer": "^2.0.0",
     "selenium-standalone": "^6.15.4",
-    "webdriverio": "^4.13.2"
+    "webdriverio": "^5.16.9"
   }
 }
