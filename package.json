@@ -25,7 +25,7 @@
     "eslint-plugin-codeceptjs": "^1.2.0",
     "husky": "^3.1.0",
     "puppeteer": "^2.0.0",
-    "selenium-standalone": "^6.15.4",
+    "selenium-standalone": "^6.17.0",
     "webdriverio": "^5.16.9"
   }
 }
