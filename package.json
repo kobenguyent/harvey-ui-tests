@@ -21,7 +21,7 @@
     "import-export": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^6.7.1",
+    "eslint": "^6.8.0",
     "eslint-plugin-codeceptjs": "^1.2.0",
     "husky": "^3.1.0",
     "puppeteer": "^2.0.0",
