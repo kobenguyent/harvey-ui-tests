@@ -23,7 +23,7 @@
   "devDependencies": {
     "eslint": "^6.7.1",
     "eslint-plugin-codeceptjs": "^1.2.0",
-    "husky": "^4.0.2",
+    "husky": "^4.2.1",
     "puppeteer": "^2.0.0",
     "selenium-standalone": "^6.15.4",
     "webdriverio": "^5.16.9"
